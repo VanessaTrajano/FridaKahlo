@@ -160,13 +160,13 @@ body{
         height: 45%;
     }
     .main{
-        height: 115vw;
+        height: 130vw;
         flex-direction: column;
         padding-top: 1vw;
         padding-bottom: 1vw;
     }
     .about{
-        height: 30%;
+        height: 25%;
         width: 100%;
         font-size: 3.3vw;
         border-bottom: 0.2vw dashed #ffb84c;
@@ -184,7 +184,7 @@ body{
         display: none;
     }
     .curiosities{
-        height: 70%;
+        height: 75%;
         width: 100%;
         font-size: 3.3vw;
         display: flex;
